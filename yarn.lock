@@ -2934,7 +2934,7 @@
     "@umijs/mako-win32-ia32-msvc" "0.8.11"
     "@umijs/mako-win32-x64-msvc" "0.8.11"
 
-"@umijs/max@^4.3.17":
+"@umijs/max@^4.3.20":
   version "4.3.20"
   resolved "https://registry.yarnpkg.com/@umijs/max/-/max-4.3.20.tgz#89a5454302b81fe9df9e1cf248d2902ea7c0a5ce"
   integrity sha512-OqK3+PBi6xQfCMBhjT5cR4+pLw3I9ZUvUl8GRotH4jUgfG5OljtFO5qGMA923WFlnVFXbfoa+D+YPimrnwmXww==
